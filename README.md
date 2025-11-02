@@ -28,12 +28,12 @@ This isn’t just practice — it’s progress with adrenaline.
 ---
 
 # 💻 Tech Architecture
-Layer	Description
-Frontend	Built with Vanilla JS, HTML, and CSS — simple, fast, and reactive.
-Backend	Node.js with Express and Socket.IO for real-time battles.
-Sandbox	Uses Node’s VM module for secure, isolated code execution.
-Match Engine	Handles matchmaking, scoring, and game logic.
-Problem Generator (AI)	Dynamically creates coding challenges of various types and levels.
+|Layer|	Description|
+|Frontend|	Built with Vanilla JS, HTML, and CSS — simple, fast, and reactive.|
+|Backend|	Node.js with Express and Socket.IO for real-time battles.|
+|Sandbox|	Uses Node’s VM module for secure, isolated code execution.|
+|Match Engine|	Handles matchmaking, scoring, and game logic.|
+|Problem Generator (AI)|	Dynamically creates coding challenges of various types and levels.|
 
 ---
 # 🔮 Core Features
@@ -132,6 +132,7 @@ Empowering developers through creativity and fair competition
 
 # 🤝 Connect With Us
 <p align="center"> <a href="https://github.com/developer-sakshyam"><img src="https://img.shields.io/badge/GitHub-sakshyamkharel-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/sakshyam kharel"><img src="https://img.shields.io/badge/LinkedIn-CodeVerse-blue?style=for-the-badge&logo=linkedin"></a> <a href="#"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> </p> <p align="center"> <b>“The future of coding isn’t about studying alone — it’s about battling, learning, and winning together.”</b><br> 🧠 Built with passion by Sakshyam Kharel & Team. </p>
-📜 License
 
-# MIT License © 2025 [CodeVerse Organization]
+# 📜 License
+
+### MIT License © 2025 [CodeVerse Organization]
