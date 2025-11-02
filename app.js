@@ -5,12 +5,12 @@ let timerInterval = null;
 
 const el = (id) => document.getElementById(id);
 
-// Sections
+
 const registerSec = el('register');
 const lobbySec = el('lobby');
 const matchSec = el('match');
 
-// Controls
+
 const nameInput = el('name');
 const registerBtn = el('registerBtn');
 const langSel = el('lang');
@@ -27,7 +27,7 @@ const submitBtn = el('submitBtn');
 const resultEl = el('result');
 const detailsEl = el('details');
 
-// --- UI helpers ---
+
 function show(sec) {
   [registerSec, lobbySec, matchSec].forEach(s => s.classList.add('hidden'));
   sec.classList.remove('hidden');
