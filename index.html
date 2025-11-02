@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CodeVerse Demo</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>CodeVerse <span class="badge">demo</span></h1>
+      <p class="subtitle">Learn. Compete. Level up.</p>
+    </header>
+
+    <section id="register">
+      <label>Name</label>
+      <input id="name" placeholder="Sakshyam" />
+      <button id="registerBtn">Enter</button>
+    </section>
+
+    <section id="lobby" class="hidden">
+      <div class="row">
+        <div>
+          <label>Language</label>
+          <select id="lang">
+            <option value="javascript" selected>JavaScript (demo)</option>
+          </select>
+        </div>
+        <div>
+          <label>Level</label>
+          <select id="level">
+            <option value="beginner" selected>Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+          </select>
+        </div>
+      </div>
+      <button id="queueBtn">Join PvP Queue</button>
+      <p id="queueStatus"></p>
+    </section>
+
+    <section id="match" class="hidden">
+      <div class="match-header">
+        <h2 id="problemTitle"></h2>
+        <div class="meta">
+          <span>Opponent: <b id="opponent"></b></span>
+          <span>Time left: <b id="timer">--:--</b></span>
+        </div>
+      </div>
+      <p id="statement" class="statement"></p>
+      <div class="editor">
+        <textarea id="code" spellcheck="false"></textarea>
+      </div>
+      <div class="actions">
+        <button id="submitBtn">Submit</button>
+        <span id="result"></span>
+      </div>
+      <div id="details"></div>
+    </section>
+
+    <footer>
+      <small>Demo build • JS-only judge • Made for quick testing</small>
+    </footer>
+  </div>
+
+  <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>
