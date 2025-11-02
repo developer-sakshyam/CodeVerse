@@ -1,103 +1,114 @@
-<!-- =============================== -->
-<!--          CODEVERSE README        -->
-<!-- =============================== -->
+<!-- =============================== --> <!-- CODEVERSE README ⚔️ --> <!-- =============================== --> 
 
-<h1 align="center">⚔️ CODEVERSE – The Ultimate Coding Battle Arena ⚔️</h1>
+<h1 align="center">⚔️ CodeVerse – Where Coding Becomes a Battle</h1> <p align="center"> <img src="https://github.com/developer-sakshyam/CodeVerse/blob/main/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/> </p> <p align="center"> <b>Compete. Learn. Evolve.</b><br> <b>CodeVerse</b> transforms programming into an interactive PvP battle — where developers test logic, speed, and creativity in real-time.<br> Built with ❤️ using <code>Node.js</code>, <code>Socket.IO</code>, and <code>Vanilla JS</code>. </p>
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Socket.IO-black?logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/github/license/your-org/codeverse"> </p>
 
-<p align="center">
-  <img src="https://github.com/developer-sakshyam/CodeVerse/blob/main/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/>
-</p>
+🌍 About CodeVerse
 
-<p align="center">
-  <b>Where coders become warriors, and logic becomes a weapon.</b><br>
-  Built for the next generation of developers who thrive on competition and creativity.
-</p>
+CodeVerse is a futuristic platform that combines the thrill of gaming with the power of coding education.
+It’s not just a place to learn — it’s a digital arena where coders from around the world compete head-to-head in timed programming challenges.
 
----
+Every match is a test of logic, speed, and focus. You don’t just code — you fight with code.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FullStack-yellow?logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Frontend-blue?logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-In_Development-purple?logo=github&logoColor=white">
-  <img src="https://img.shields.io/github/license/sakshyamkharel/CodeVerse?color=blueviolet">
-  <img src="https://img.shields.io/github/stars/sakshyamkharel/CodeVerse?style=social">
-</p>
+⚙️ How It Works
 
----
+Join the Arena – Pick your language and difficulty.
 
-## 🚀 About CodeVerse
+Matchmaking – Instantly paired with another coder at your skill level.
 
-**CodeVerse** is a futuristic, battle-inspired coding platform designed to make programming feel like a game.  
-Developers can compete in real-time coding battles, sharpen their logic, and climb the leaderboard to prove their dominance — not just as coders, but as *tech gladiators*.  
+Battle Begins – Both receive the same problem; whoever solves it first wins.
 
-Our mission is simple:  
-> “Turn learning and competition into an unforgettable coding experience.”
+Earn Points – Win matches, climb ranks, and unlock exclusive tiers.
 
----
+Built-in AI dynamically generates problems, so every battle feels unique.
+This isn’t just practice — it’s progress with adrenaline.
 
-## ⚙️ Core Features
+💻 Tech Architecture
+Layer	Description
+Frontend	Built with Vanilla JS, HTML, and CSS — simple, fast, and reactive.
+Backend	Node.js with Express and Socket.IO for real-time battles.
+Sandbox	Uses Node’s VM module for secure, isolated code execution.
+Match Engine	Handles matchmaking, scoring, and game logic.
+Problem Generator (AI)	Dynamically creates coding challenges of various types and levels.
 
-✅ **Real-Time Coding Battles** – Face off against others in live coding duels.  
-✅ **Auto-Graded Challenges** – Submit solutions instantly and get ranked.  
-✅ **Difficulty Levels** – Easy to Legendary — climb the difficulty like a true gamer.  
-✅ **Leaderboard System** – Global rankings with XP and badges.  
-✅ **Arena Mode** – Timed matches with custom problems.  
-✅ **AI-Generated Questions** – Endless new problems powered by AI.  
-✅ **Profile Stats** – Track wins, losses, and coding streaks.  
-✅ **Dark Futuristic UI** – A neon-coded world built for the new generation of developers.
+🔮 Core Features
 
----
+✅ 1v1 Real-Time Code Battles
+✅ Instant Matchmaking System
+✅ Live Judging & Scoring
+✅ AI-Generated Coding Problems
+✅ Leaderboard & Ranking System (upcoming)
+✅ Multiplayer Tournament Mode (coming soon)
+✅ Personal Profiles, Stats, and Avatars (future)
+✅ Mobile-Friendly UI for Web Battles
 
-## 🧰 Tech Stack
+🚀 Future Plans
 
-| Component | Technology |
-|------------|-------------|
-| Frontend | HTML, CSS, JavaScript (React planned) |
-| Backend | Node.js, Express |
-| Database | MongoDB (future) |
-| Code Runner | Custom sandbox environment |
-| AI System | GPT-based problem generator (planned) |
+🌐 Global Leaderboard – Rank by region, skill, and language.
 
----
+🧠 AI Mentor – Personalized feedback after each battle.
 
-## 💡 Vision
+🕹️ Seasonal Events & Coding Tournaments.
 
-> “To create a world where coding isn’t just learning — it’s a battle, a challenge, and a game.”  
+👥 Study Mode + Team Battles.
 
-We’re building a universe where developers across the world can challenge each other, share knowledge, and push their limits — all while having fun.
+🧩 Custom Problem Builder for Educators.
 
----
+💰 Funding & Sustainability
 
-## 🔮 Future Plans
+Currently, CodeVerse is self-funded by the organization and its creator.
+We plan to introduce premium tiers and sponsorships later to sustain the servers and reward top players.
 
-- Launch **CodeVerse v1.0** with user authentication and public lobbies  
-- Add **AI-powered question generator** for endless coding problems  
-- Introduce **Team Battles** & **Tournament Mode**  
-- Create **custom problem creation system** for community submissions  
-- Develop **mobile companion app** for practice battles  
-- Launch **“CodeVerse XP” system** — unlock themes, badges, and ranks  
-- Add **Spectator Mode** to watch global duels live  
+Funding Model (Future):
 
----
+🏆 Tournament Passes
 
-## 💬 Join the Mission
+💎 Premium Skins & Themes
 
-We’re not backed by investors — we’re powered by passion, creativity, and the community.  
-CodeVerse is for everyone who believes that **coding can be exciting, competitive, and limitless**.  
+🧠 Exclusive Learning Tiers (AI mentor access)
 
----
+🤝 Brand-sponsored coding leagues
 
-## 🌐 Connect
+No ads. No tracking. Pure coding.
 
-<p align="center">
-  <a href="https://github.com/developer-sakshyam"><img src="https://img.shields.io/badge/GitHub-sakshyamkharel-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-Coming_Soon-blueviolet?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
-</p>
+🧑‍💻 Team CodeVerse
+Role	Member
+Founder & Lead Developer	Sakshyam Kharel
+Co-Developer	[Not available]
+Frontend Engineer	[Not available]
+Backend Engineer [Not available]
 
-<p align="center">
-  <b>“Code smart. Battle hard. Welcome to the Verse.”</b><br>
-  🧠 <i>Created by the CodeVerse Organization</i>
-</p>
+🧩 Tech Stack
+Component	Technology
+Frontend	HTML, CSS, JavaScript
+Backend	Node.js, Express, Socket.IO
+Code Execution	Node VM Sandbox
+Hosting (future)	Vercel + Railway
+Database (future)	MongoDB / Firebase
 
----
+🧠 Contribute
+
+CodeVerse is still in early development.
+You can:
+
+🐛 Report bugs via Issues tab
+
+💡 Suggest new features
+
+🎨 Help design UI themes
+
+🌐 Organization & Branding
+
+CodeVerse is a futuristic coding platform organization focusing on:
+
+Gamified learning
+
+Safe, private, and competitive environments
+
+Empowering developers through creativity and fair competition
+
+🤝 Connect With Us
+<p align="center"> <a href="https://github.com/developer-sakshyam"><img src="https://img.shields.io/badge/GitHub-sakshyamkharel-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/sakshyam kharel"><img src="https://img.shields.io/badge/LinkedIn-CodeVerse-blue?style=for-the-badge&logo=linkedin"></a> <a href="#"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> </p> <p align="center"> <b>“The future of coding isn’t about studying alone — it’s about battling, learning, and winning together.”</b><br> 🧠 Built with passion by <a href="https://github.com/sakshyamkharel">Sakshyam Kharel</a> & Team. </p>
+📜 License
+
+MIT License © 2025 [CodeVerse Organization]
