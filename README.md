@@ -29,11 +29,12 @@ This isn’t just practice — it’s progress with adrenaline.
 
 # 💻 Tech Architecture
 |Layer|	Description|
-|Frontend|	Built with Vanilla JS, HTML, and CSS — simple, fast, and reactive.|
-|Backend|	Node.js with Express and Socket.IO for real-time battles.|
-|Sandbox|	Uses Node’s VM module for secure, isolated code execution.|
-|Match Engine|	Handles matchmaking, scoring, and game logic.|
-|Problem Generator (AI)|	Dynamically creates coding challenges of various types and levels.|
+|-----|------------|
+|**Frontend**|	Built with Vanilla JS, HTML, and CSS — simple, fast, and reactive.|
+|**Backend**|	Node.js with Express and Socket.IO for real-time battles.|
+|**Sandbox**|	Uses Node’s VM module for secure, isolated code execution.|
+|**Match Engine**|	Handles matchmaking, scoring, and game logic.|
+|**Problem Generator (AI)**|	Dynamically creates coding challenges of various types and levels.|
 
 ---
 # 🔮 Core Features
