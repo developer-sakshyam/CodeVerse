@@ -3,7 +3,7 @@
 <h1 align="center">⚔️ CodeVerse – Where Coding Becomes a Battle</h1> <p align="center"> <img src="https://github.com/developer-sakshyam/CodeVerse/blob/main/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/></p> <p align="center"> <b>Compete. Learn. Evolve.</b><br> <b>CodeVerse</b> transforms programming into an interactive PvP battle — where developers test logic, speed, and creativity in real-time.<br> Built with ❤️ using <code>Node.js</code>, <code>Socket.IO</code>, and <code>Vanilla JS</code>. </p>
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Socket.IO-black?logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/github/license/your-org/codeverse"> </p>
 
-#🌍 About CodeVerse
+```🌍 About CodeVerse```
 
 CodeVerse is a futuristic platform that combines the thrill of gaming with the power of coding education.
 It’s not just a place to learn — it’s a digital arena where coders from around the world compete head-to-head in timed programming challenges.
