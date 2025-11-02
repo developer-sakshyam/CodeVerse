@@ -75,6 +75,8 @@ Copy code
 node server/index.js
 4️⃣ Visit your app
 Open your browser → http://localhost:3000
+```
+###
 
 🔒 Security & Privacy
 CodeVerse is built with privacy first — your code runs locally in a controlled environment.
