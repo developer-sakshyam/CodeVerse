@@ -5,7 +5,7 @@
 <h1 align="center">⚔️ CodeVerse – Compete. Code. Conquer.</h1>
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69075db7d9b08191a979f5285584d111" width="260px" alt="CodeVerse Logo"/>
+  <img src="/home/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/>
 </p>
 
 <p align="center">
