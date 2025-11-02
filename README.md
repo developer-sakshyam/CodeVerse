@@ -132,7 +132,7 @@ Empowering developers through creativity and fair competition
 ---
 
 # 🤝 Connect With Us
-<p align="center"> <a href="https://github.com/developer-sakshyam"><img src="https://img.shields.io/badge/GitHub-sakshyamkharel-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="www.linkedin.com/in/sakshyam-kharel-223724333"><img src="https://img.shields.io/badge/LinkedIn-CodeVerse-blue?style=for-the-badge&logo=linkedin"></a> <a href="#"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> </p> <p align="center"> <b>“The future of coding isn’t about studying alone — it’s about battling, learning, and winning together.”</b><br> 🧠 Built with passion by Sakshyam Kharel & Team. </p>
+<p align="center"> <a href="https://github.com/developer-sakshyam"><img src="https://img.shields.io/badge/GitHub-sakshyamkharel-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/sakshyam-kharel-223724333/"><img src="https://img.shields.io/badge/LinkedIn-CodeVerse-blue?style=for-the-badge&logo=linkedin"></a> <a href="#"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> </p> <p align="center"> <b>“The future of coding isn’t about studying alone — it’s about battling, learning, and winning together.”</b><br> 🧠 Built with passion by Sakshyam Kharel & Team. </p>
 
 # 📜 License
 
