@@ -5,7 +5,7 @@
 <h1 align="center">⚔️ CodeVerse – Compete. Code. Conquer.</h1>
 
 <p align="center">
-  <img src="/home/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/>
+  <img src="https://github.com/developer-sakshyam/CodeVerse/blob/main/Codeverse_Logo_Design.png" width="260px" alt="CodeVerse Logo"/>
 </p>
 
 <p align="center">
